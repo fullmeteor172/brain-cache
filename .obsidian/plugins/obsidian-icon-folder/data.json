@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
-      "RiAttachment2",
-      "RiDatabase2Fill",
-      "RiFilePaperFill",
+      "FabGitAlt",
+      "FarImages",
       "FarFile",
-      "FarImages"
+      "RiFilePaperFill",
+      "RiDatabase2Fill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -20,5 +20,7 @@
       "left": 2
     }
   },
-  "Data Structures": "RiDatabase2Fill"
+  "Computer Science/Data Structures": "RiDatabase2Fill",
+  "Computer Science": "RiComputerFill",
+  "Computer Science/Git.md": "FabGitAlt"
 }

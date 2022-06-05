@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "7542b41d216abbe7",
+        "id": "6b65d5857b680cc5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Structures/Big-O Notation.md",
+            "file": "Computer Science/Git.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "563104c061f94e3f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Computer Science/Data Structures/Big-O Notation.md",
             "mode": "source",
             "source": false
           }
@@ -55,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures/Big-O Notation.md",
+                "file": "Computer Science/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -70,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3203b820df6ca3c5",
@@ -81,9 +92,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7542b41d216abbe7",
+  "active": "6b65d5857b680cc5",
   "lastOpenFiles": [
-    "Data Structures/Big-O Notation.md",
+    "Computer Science/Git.md",
+    "Computer Science/Data Structures/Big-O Notation.md",
+    "constant_time_complex.png.md",
     "Untitled.md",
     "Untitled 1.md",
     "Data Structures/Pasted image 20220605163701.png",
